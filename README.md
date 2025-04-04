@@ -4,5 +4,11 @@ created this layout of amazon front page
 
 
 
-![image](https://github.com/itsshashwatsingh/amazon-clone-frontend/blob/main/Screenshot%202025-04-03%20175317.png?raw=true)
+![image](https://github.com/itsshashwatsingh/amazon-clone-frontend/blob/main/Screenshot%202025-04-03%20175317.png?raw=true)<br>
 
+
+card design<br>
+
+
+
+![image]()
