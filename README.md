@@ -1,5 +1,5 @@
 # frontend
-this is my first git repo - shashwat singh<br>
+<strond>this is my first git repo - shashwat singh<strong><br><br>
 created this layout of amazon front page
 
 
