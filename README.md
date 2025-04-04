@@ -1,4 +1,4 @@
-# amazon-clone-frontend
+# frontend
 this is my first git repo - shashwat singh<br>
 created this layout of amazon front page
 [Link Text](http://127.0.0.1:5500/amazonfrontend.html)
