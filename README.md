@@ -1,16 +1,16 @@
 # frontend
-<strond>this is my first git repo - shashwat singh<strong><br><br>
+<strond>this is my first git repo - **Author:** Shashwat Singh
 created this layout of 
 
 
-<h1 Amazon front page >
+## H2 Amazon frontEnd Clone
 
 
 
 ![image](https://github.com/itsshashwatsingh/amazon-clone-frontend/blob/main/Screenshot%202025-04-03%20175317.png?raw=true)<br>
 
 
-<h1 card design >
+## H2 Card Design
   
 
 
@@ -18,7 +18,7 @@ created this layout of
 ![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-04%20180133.png?raw=true)
 
 
-<h1 Netflix Front Page>
+## H2 Netflix Frontend Clone
 
 
-![image]()
+![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png)
