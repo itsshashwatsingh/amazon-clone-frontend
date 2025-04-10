@@ -6,8 +6,8 @@ created this layout of
 ##  Amazon frontEnd Clone (Resonsive)
 
 
-
-![image](https://github.com/itsshashwatsingh/amazon-clone-frontend/blob/main/Screenshot%202025-04-03%20175317.png?raw=true)<br><br>
+<img src="https://github.com/itsshashwatsingh/amazon-clone-frontend/blob/main/Screenshot%202025-04-03%20175317.png?raw=true" alt="My Screenshot" width="500"/> 
+<br><br>
 
 
 ##  Card Design
@@ -21,7 +21,7 @@ created this layout of
 ##  Netflix Frontend Clone (Responsive)
 
 <img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png" alt="My Screenshot" width="500"/> <img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20001817.png" alt="My Screenshot" height="280"/> 
-<img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002043.png" alt="My Screenshot" height="400"/> 
+<img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002043.png" alt="My Screenshot" height="300"/> 
 <img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002217.png" alt="My Screenshot" height="400"/> 
 <img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002259.png" alt="My Screenshot" height="300"/> 
 
