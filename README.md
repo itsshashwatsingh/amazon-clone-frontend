@@ -28,3 +28,6 @@ created this layout of
 
 
 ![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002259.png)
+
+<img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png" alt="My Screenshot" width="400"/>
+
