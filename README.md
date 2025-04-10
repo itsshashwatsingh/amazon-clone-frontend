@@ -14,7 +14,7 @@ created this layout of
   
 
 
-<img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-04%20180133.png?raw=true" alt="My Screenshot" width="280"/> <br><br>
+<img src="https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-04%20180133.png?raw=true" alt="My Screenshot" width="200"/> <br><br>
 
 
 ##  Netflix Frontend Clone (Responsive)
