@@ -18,7 +18,7 @@ created this layout of
 ![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-04%20180133.png?raw=true)<br><br>
 
 
-##  Netflix Frontend Clone
+##  Netflix Frontend Clone (Responsive)
 
 
 ![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png) <br> <br>
