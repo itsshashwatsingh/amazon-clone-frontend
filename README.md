@@ -3,7 +3,7 @@
 created this layout of 
 
 
-##  Amazon frontEnd Clone
+##  Amazon frontEnd Clone (Resonsive)
 
 
 
