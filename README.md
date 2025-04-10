@@ -21,15 +21,10 @@ created this layout of
 ##  Netflix Frontend Clone (Responsive)
 
 
-![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png) <br> <br>
-
-![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20001817.png)
+![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-09%20000040.png) ![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20001817.png)
 
 
-![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002043.png)
+![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002043.png)![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002217.png)
 
 
-![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002217.png)
-
-
-
+![image](https://github.com/itsshashwatsingh/frontend/blob/main/Screenshot%202025-04-11%20002259.png)
